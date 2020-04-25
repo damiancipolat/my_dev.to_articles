@@ -1,5 +1,5 @@
-# my_dev.to_articles
-Backup of my dev.to articles writed using markdown.
+# Dev.to articles
+Backup of my dev.to articles writed using markdown to se my profile https://dev.to/damxipo.
 
 ## Articles
 Complete list of all my dev.to articles.
