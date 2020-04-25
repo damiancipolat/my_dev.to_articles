@@ -1,7 +1,7 @@
-# Dev.to articles
+# My Dev.to technical articles
 Backup of my dev.to articles writed using markdown to se my profile https://dev.to/damxipo.
 
-## Articles
+## List of articles
 Complete list of all my dev.to articles.
 
 - Why a==1&&a==2&&a==3 is true in JS?
